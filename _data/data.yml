@@ -107,8 +107,8 @@ experiences:
         error sit voluptatem accusantium doloremque laudantium, totam rem
         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
         architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+          - Senior Lecturer (2007 - 2009)
+          - Assistant Lecturer (2004 - 2006)
     - role: Application Developer
       time: 2001 - 2003
       company: KAF Seagroatt & Campbell Securities Sdn. Bhd., Kuala Lumpur
@@ -120,7 +120,7 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-    - role: UI Developer
+    - role: Software Engineer
       time: 2000 - 2001
       company: KUB Sistem Sdn. Bhd., Kuala Lumpur
       details: |
