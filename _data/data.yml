@@ -143,31 +143,38 @@ experiences:
         Developed various web modules for e-commerce portal by utilizing J2EE architecture. Specialized in designing 
         front end interface by using Java Server Pages (JSP), JavaBean and JavaScript.
 projects:
-    title: Projects
+    title: Application Development Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      List of developed projects and used by faculty members, students and external organizations.
     assignments:
-      - title: Velocity
+      - title: Final Year Project Dashboard
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "A web application to ease assessments and monitoring of final year project. Developed with Google App Script."
 
-      - title: DevStudio
+      - title: Industrial Attachment Dashboard
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "A web application to ease assessments for the faculty/companies and monitoring students performance. Develop with Google App Script."
 
-      - title: Tempo
+      - title: ICT Support App
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "A responsive web application for assisting lecturers with ICT support in the classrooms. Developed with Google App Script."
+projects:
+    title: Research Projects
+    intro: >
+      List of on-going and completed research projects.
+    assignments:
+      - title: Final Year Project Dashboard
+        link: "#hook"
+        tagline: "A web application to ease assessments and monitoring of final year project. Developed with Google App Script."
 
-      - title: Atom
+      - title: Industrial Attachment Dashboard
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "A web application to ease assessments for the faculty/companies and monitoring students performance. Develop with Google App Script."
 
-      - title: Delta
+      - title: ICT Support App
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "A responsive web application for assisting lecturers with ICT support in the classrooms. Developed with Google App Script."
+
 
 publications:
     title: Publications
