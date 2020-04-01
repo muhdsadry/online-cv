@@ -158,23 +158,6 @@ projects:
       - title: ICT Support App
         link: "#"
         tagline: "A responsive web application for assisting lecturers with ICT support in the classrooms. Developed with Google App Script."
-projects:
-    title: Research Projects
-    intro: >
-      List of on-going and completed research projects.
-    assignments:
-      - title: Final Year Project Dashboard
-        link: "#hook"
-        tagline: "A web application to ease assessments and monitoring of final year project. Developed with Google App Script."
-
-      - title: Industrial Attachment Dashboard
-        link: "#"
-        tagline: "A web application to ease assessments for the faculty/companies and monitoring students performance. Develop with Google App Script."
-
-      - title: ICT Support App
-        link: "#"
-        tagline: "A responsive web application for assisting lecturers with ICT support in the classrooms. Developed with Google App Script."
-
 
 publications:
     title: Publications
