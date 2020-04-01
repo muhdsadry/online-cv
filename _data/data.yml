@@ -143,10 +143,22 @@ experiences:
         Developed various web modules for e-commerce portal by utilizing J2EE architecture. Specialized in designing 
         front end interface by using Java Server Pages (JSP), JavaBean and JavaScript.
 projects:
-    title: Research & Application Development Projects
+    title: Projects
     intro: >
-      List of on-going and developed projects.
+      List of research and application development projects.
     assignments:
+      - title: A Model for Islamic istilahNet in Malay Manuscripts for Big Data Analytics and Liguistic Consortium.
+        link: "#hook"
+        tagline: "Main-Researcher - Fundamental Research Grant Scheme (RIGS, 2007)"
+        
+      - title: Re-engineering pre-marriage course learning for JAKIM: an investigation of multimedia lifelong mobile learning experience.
+        link: "#hook"
+        tagline: "Co-Researcher - Research Initiative Grant Scheme (RIGS, 2015)"
+        
+      - title: Digital Divide & Information Technology Industry Development in Malaysia.
+        link: "#hook"
+        tagline: "Co-Researcher - Fundamental Research Grant Scheme (FRGS, 2007)"
+        
       - title: Final Year Project Dashboard (Application Development Project)
         link: "#hook"
         tagline: "A web application to ease assessments and monitoring of final year project. Developed with Google App Script."
