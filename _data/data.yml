@@ -128,24 +128,14 @@ experiences:
       time: 2001 - 2003
       company: KAF Seagroatt & Campbell Securities Sdn. Bhd., Kuala Lumpur
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Developed various web applications using Active Server Pages (ASP) to assist daily internal 
+        operation and developed several stand alone modules using Visual Basic for Applications (VBA) for money broking system.
     - role: Software Engineer
       time: 2000 - 2001
       company: KUB Sistem Sdn. Bhd., Kuala Lumpur
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Developed various web modules for e-commerce portal by utilizing J2EE architecture. Specialized in designing 
+        front end interface by using Java Server Pages (JSP), JavaBean and JavaScript.
 projects:
     title: Projects
     intro: >
