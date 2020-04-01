@@ -147,27 +147,27 @@ projects:
     intro: >
       List of research and application development projects.
     assignments:
-      - title: RIGS, 2007
+      - title: RIGS, 2015
         link: "#hook"
-        tagline: "A Model for Islamic istilahNet in Malay Manuscripts for Big Data Analytics and Liguistic Consortium.-Researcher - Research Initiative Grant Scheme (RIGS, 2007)"
+        tagline: "A Model for Islamic istilahNet in Malay Manuscripts for Big Data Analytics and Liguistic Consortium. Main Researcher - Research Initiative Grant Scheme (RIGS)"
         
-      - title: Re-engineering pre-marriage course learning for JAKIM - an investigation of multimedia lifelong mobile learning experience.
+      - title: RIGS, 2015
         link: "#"
-        tagline: "Co-Researcher - Research Initiative Grant Scheme (RIGS, 2015)"
+        tagline: "Re-engineering pre-marriage course learning for JAKIM - an investigation of multimedia lifelong mobile learning experience. Co-Researcher - Research Initiative Grant Scheme (RIGS)"
         
-      - title: Digital Divide & Information Technology Industry Development in Malaysia.
+      - title: FRGS, 2007
         link: "#"
-        tagline: "Co-Researcher - Fundamental Research Grant Scheme (FRGS, 2007)"
+        tagline: "Digital Divide & Information Technology Industry Development in Malaysia. Co-Researcher - Fundamental Research Grant Scheme (FRGS)"
         
-      - title: Final Year Project Dashboard (Application Development Project)
+      - title: FYP Dashboard
         link: "#"
         tagline: "A web application to ease assessments and monitoring of final year project. Developed with Google App Script."
 
-      - title: Industrial Attachment Dashboard (Application Development Project)
+      - title: IAP Dashboard
         link: "#"
-        tagline: "A web application to ease assessments for the faculty/companies and monitoring students performance. Develop with Google App Script."
+        tagline: "A web application to ease assessments of Industrial Attachment Program for the faculty/companies and monitoring students performance. Develop with Google App Script."
 
-      - title: ICT Support App (Application Development Project)
+      - title: i-Support
         link: "#"
         tagline: "A responsive web application for assisting lecturers with ICT support in the classrooms. Developed with Google App Script."
 
