@@ -31,12 +31,18 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Jogging
+      - item: Coding
         link:
 
       - item: Photography
         link:
 
+      - item: Jogging
+        link:
+      
+      - item: Swimming
+        link:
+      
       - item: Cooking
         link:
 
