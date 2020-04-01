@@ -100,7 +100,40 @@ experiences:
       company: International Islamic University Malaysia, Kuala Lumpur
       details: |
         Responsible for teaching and learning in computer programming courses
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        especially in web programing and mobile application development. 
+        . Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
+          - Senior Lecturer (2007 - 2009)
+          - Assistant Lecturer (2004 - 2006)
+    - role: Senior Lecturer
+      time: 2004 - 2009
+      company: International Islamic University Malaysia, Kuala Lumpur
+      details: |
+        Responsible for teaching and learning in computer programming courses
+        especially in web programing and mobile application development. 
+        . Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
+          - Senior Lecturer (2007 - 2009)
+          - Assistant Lecturer (2004 - 2006)
+    - role: Assistant Lecturer
+      time: 2004 - 2006
+      company: International Islamic University Malaysia, Kuala Lumpur
+      details: |
+        Responsible for teaching and learning in computer programming courses
+        especially in web programing and mobile application development. 
+        . Aenean massa.
         Cum sociis natoque penatibus et magnis dis parturient montes,
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem. Nulla consequat massa quis
