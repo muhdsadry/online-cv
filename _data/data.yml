@@ -143,19 +143,19 @@ experiences:
         Developed various web modules for e-commerce portal by utilizing J2EE architecture. Specialized in designing 
         front end interface by using Java Server Pages (JSP), JavaBean and JavaScript.
 projects:
-    title: Application Development Projects
+    title: Research & Application Development Projects
     intro: >
-      List of developed projects and used by faculty members, students and external organizations.
+      List of on-going and developed projects.
     assignments:
-      - title: Final Year Project Dashboard
+      - title: Final Year Project Dashboard (Application Development Project)
         link: "#hook"
         tagline: "A web application to ease assessments and monitoring of final year project. Developed with Google App Script."
 
-      - title: Industrial Attachment Dashboard
+      - title: Industrial Attachment Dashboard (Application Development Project)
         link: "#"
         tagline: "A web application to ease assessments for the faculty/companies and monitoring students performance. Develop with Google App Script."
 
-      - title: ICT Support App
+      - title: ICT Support App (Application Development Project)
         link: "#"
         tagline: "A responsive web application for assisting lecturers with ICT support in the classrooms. Developed with Google App Script."
 
