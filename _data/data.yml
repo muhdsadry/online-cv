@@ -168,6 +168,10 @@ projects:
         link: "#"
         tagline: "A web application to ease assessments of Industrial Attachment Program for the faculty/companies and monitoring students performance. Develop with Google App Script."
 
+      - title: PG Dashboard
+        link: "#"
+        tagline: "A web application to ease assessments of Postgraduate Program for the supervisor and monitoring students performance. Develop with Google App Script."
+
       - title: i-Support
         link: "#"
         tagline: "A responsive web application for assisting lecturers with ICT support in the classrooms. Developed with Google App Script."
