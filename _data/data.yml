@@ -105,8 +105,9 @@ experiences:
       time: 2014 - Present
       company: International Islamic University Malaysia, Kuala Lumpur
       details: |
-        Responsible for teaching & learning in computer programming
-        especially in web programing and mobile application development courses. 
+        Responsible for undergraduate computer programming teaching & learning
+        especially in web programing and mobile application development courses. Responsible for postgraduate data analytics 
+        teaching and learning. 
         Conducted and on-going research on e-Learning & Education, Information Security Assurance and Smart Data Analytics.
         Designed new courses for the faculty of Information & Communication Technology inline with IT Industry.
         Previous administrative positions: 
@@ -202,23 +203,29 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: R Programming
+        level: 80%
 
       - name: Javascript & jQuery
         level: 98%
 
-      - name: Angular
+      - name: Google App Script
         level: 98%
 
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Servlet, JSP, JavaBean & JDBC
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
-
+      - name: PHP & MySQL
+        level: 98%
+        
+      - name: Laravel
+        level: 75%
+        
+      - name: React Native
+        level: 98%
+        
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
