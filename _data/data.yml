@@ -180,9 +180,7 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      List of research publications.
     papers:
       - title: The Art of Computer Programming
         link: "#"
