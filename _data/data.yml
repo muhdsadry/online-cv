@@ -215,7 +215,7 @@ skills:
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Servlet, JSP, JavaBean & JDBC
+      - name: Servlet, JSP & JavaBean
         level: 85%
 
       - name: PHP & MySQL
