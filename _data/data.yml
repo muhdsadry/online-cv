@@ -150,7 +150,7 @@ projects:
       List of research and application development projects.
     assignments:
       - title: RIGS, 2015
-        link: "www.yahoo.com"
+        link: "#"
         tagline: "A Model for Islamic istilahNet in Malay Manuscripts for Big Data Analytics and Liguistic Consortium. Main Researcher - Research Initiative Grant Scheme (RIGS)"
         
       - title: RIGS, 2015
@@ -175,7 +175,7 @@ projects:
 
       - title: i-Support
         link: "#"
-        tagline: "A responsive web application for assisting lecturers with ICT support in the classrooms. Developed with Google App Script."
+        tagline: "A responsive web application for assisting lecturers with ICT support in classrooms. Developed with Google App Script."
 
 publications:
     title: Publications
