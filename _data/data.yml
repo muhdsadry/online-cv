@@ -189,12 +189,12 @@ projects:
 publications:
     title: Publications
     intro: |
-      List of research publications.
+      Below are the list of research publications including conference, journal and book chapter.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Malay Manuscripts Transliteration Using Statistical Machine Translation (SMT)
+        link: "https://ieeexplore.ieee.org/abstract/document/8970867"
+        authors: S. M. A. Razak, M. S. A. Seman, W. Ali, W. Y. Wan, N. H. Nizan and M. Noor
+        conference: 2019 1st International Conference on Artificial Intelligence and Data Sciences (AiDAS)
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
