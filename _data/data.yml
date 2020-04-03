@@ -149,17 +149,17 @@ projects:
     intro: >
       List of research and application development projects.
     assignments:
-      - title: RIGS, 2015
+      - title: RIGS, 2015 (Main Researcher)
         link: "#"
-        tagline: "A Model for Islamic istilahNet in Malay Manuscripts for Big Data Analytics and Liguistic Consortium. [Main Researcher] - Research Initiative Grant Scheme (RIGS)"
+        tagline: "A Model for Islamic istilahNet in Malay Manuscripts for Big Data Analytics and Liguistic Consortium. Main Researcher - Research Initiative Grant Scheme (RIGS)"
         
       - title: RIGS, 2015
         link: "#"
-        tagline: "Re-engineering pre-marriage course learning for JAKIM - an investigation of multimedia lifelong mobile learning experience. [Co-Researcher] - Research Initiative Grant Scheme (RIGS)"
+        tagline: "Re-engineering pre-marriage course learning for JAKIM - an investigation of multimedia lifelong mobile learning experience. Co-Researcher - Research Initiative Grant Scheme (RIGS)"
         
       - title: FRGS, 2007
         link: "#"
-        tagline: "Digital Divide & Information Technology Industry Development in Malaysia. [Co-Researcher] - Fundamental Research Grant Scheme (FRGS)"
+        tagline: "Digital Divide & Information Technology Industry Development in Malaysia. Co-Researcher - Fundamental Research Grant Scheme (FRGS)"
         
       - title: FYP Dashboard
         link: "#"
