@@ -147,35 +147,44 @@ experiences:
 projects:
     title: Projects
     intro: >
-      List of research and application development projects. Most of the research projects are funded by International Islamic University Malaysia and Ministry of Higher Education, Malaysia.
+      Below are the list of research and application development projects. Most of the research projects are funded by 
+      International Islamic University Malaysia and Ministry of Higher Education, Malaysia. All of the application 
+      development projects are self-initiative.
     assignments:
       - title: RIGS, 2015
         link: "#"
-        tagline: "A Model for Islamic istilahNet in Malay Manuscripts for Big Data Analytics and Liguistic Consortium. Main Researcher - Research Initiative Grant Scheme (RIGS)"
+        tagline: "A Model for Islamic istilahNet in Malay Manuscripts for Big Data Analytics and Liguistic Consortium. 
+        Main Researcher - Research Initiative Grant Scheme (RIGS)"
         
       - title: RIGS, 2015
         link: "#"
-        tagline: "Re-engineering pre-marriage course learning for JAKIM - an investigation of multimedia lifelong mobile learning experience. Co-Researcher - Research Initiative Grant Scheme (RIGS)"
+        tagline: "Re-engineering pre-marriage course learning for JAKIM - an investigation of multimedia lifelong 
+        mobile learning experience. Co-Researcher - Research Initiative Grant Scheme (RIGS)"
         
       - title: FRGS, 2007
         link: "#"
-        tagline: "Digital Divide & Information Technology Industry Development in Malaysia. Co-Researcher - Fundamental Research Grant Scheme (FRGS)"
+        tagline: "Digital Divide & Information Technology Industry Development in Malaysia. Co-Researcher - Fundamental 
+        Research Grant Scheme (FRGS)"
         
       - title: FYP Dashboard
         link: "#"
-        tagline: "A web application to ease assessments and monitoring of final year project. Developed with Google App Script."
+        tagline: "A web application to ease assessments and monitoring of final year project. Developed with 
+        Google App Script."
 
       - title: IAP Dashboard
         link: "#"
-        tagline: "A web application to ease assessments of Industrial Attachment Program for faculty/companies and monitoring students' performance. Develop with Google App Script."
+        tagline: "A web application to ease assessments of Industrial Attachment Program for faculty/companies and 
+        monitoring students' performance. Develop with Google App Script."
 
       - title: PG Dashboard
         link: "#"
-        tagline: "A web application to ease assessments of Postgraduate Program for supervisor and monitoring students' progress. Develop with Google App Script."
+        tagline: "A web application to ease assessments of Postgraduate Program for supervisor and monitoring 
+        students' progress. Develop with Google App Script."
 
       - title: i-Support
         link: "#"
-        tagline: "A responsive web application for assisting lecturers with ICT support in classrooms. Developed with Google App Script."
+        tagline: "A responsive web application for assisting lecturers with ICT support in classrooms. Developed 
+        with Google App Script."
 
 publications:
     title: Publications
