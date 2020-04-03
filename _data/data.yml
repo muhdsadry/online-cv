@@ -148,11 +148,11 @@ projects:
     title: Projects
     intro: >
       Below are the list of research and application development projects. Most of the research projects are funded by 
-      International Islamic University Malaysia and Ministry of Higher Education, Malaysia. All of the application 
+      International Islamic University Malaysia and Ministry of Higher Education, Malaysia. Most of the application 
       development projects are self-initiative.
     assignments:
       - title: RIGS, 2015
-        link: "#"
+        link: ""
         tagline: "A Model for Islamic istilahNet in Malay Manuscripts for Big Data Analytics and Liguistic Consortium. 
         Main Researcher - Research Initiative Grant Scheme (RIGS)"
         
