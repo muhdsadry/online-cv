@@ -193,13 +193,13 @@ publications:
     papers:
       - title: Malay Manuscripts Transliteration Using Statistical Machine Translation (SMT)
         link: "https://ieeexplore.ieee.org/abstract/document/8970867"
-        authors: S. M. A. Razak, M. S. A. Seman, W. Ali, W. Y. Wan, N. H. Nizan and M. Noor
+        authors: Sitti Munirah Abdul Razak, Muhamad Sadry Abu Seman, Wan Ali, Wan Yusoff Wan, Noor Hasrul Nizan, Mohammad Noor
         conference: 2019 1st International Conference on Artificial Intelligence and Data Sciences (AiDAS)
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Effects of Socioeconomic Characteristics on Online Purchase Intention Among Malaysians
+        link: "https://www.ingentaconnect.com/content/asp/jctn/2019/00000016/00000003/art00021"
+        authors: Najma Imtiaz Ali, Suhaila Samsuri, Muhamad Sadry Abu Seman, Imtiaz Ali Brohi, Asadullah Shah
+        conference: Journal of Computational and Theoretical Nanoscience, 2019
 
       - title: A syntax directed compiler for Algol 60
         link: "#"
