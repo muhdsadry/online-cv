@@ -260,6 +260,36 @@ publications:
         link: "https://ieeexplore.ieee.org/abstract/document/7814901"
         authors: "NI Ali, S Samsuri, M Sadry, IA Brohi, A Shah"
         conference: "2016 6th International Conference on Information and Communication Technology for The Muslim World (ICT4M)"
+        
+      - title: "Frameworks for a Computational Isnad Authentication and Mechanism Development"
+        link: "https://ieeexplore.ieee.org/abstract/document/7814894"
+        authors: "NK Ibrahim, S Samsuri, MSA Seman, AEB Ali, M Kartiwi"
+        conference: "2016 6th International Conference on Information and Communication Technology for The Muslim World (ICT4M)"
+        
+      - title: "Acceptance and use of information and communication technology by academicians: Towards a conceptual framework"
+        link: "https://ieeexplore.ieee.org/abstract/document/7814873"
+        authors: "S Chandio, MSA Semen, S Samsuri, A Shah"
+        conference: "2016 6th International Conference on Information and Communication Technology for The Muslim World (ICT4M)"
+        
+      - title: "Isnad Al-Hadith Computational Authentication: An Analysis Hierarchically"
+        link: "https://ieeexplore.ieee.org/abstract/document/7814928"
+        authors: "N. K. Ibrahim, M. F. Noordin, S. Samsuri, M. S. A. Seman and A. E. B. Ali"
+        conference: "2016 6th International Conference on Information and Communication Technology for The Muslim World (ICT4M)"
+        
+      - title: "Affective Learning Analysis of Children in a Card Sorting Game"
+        link: "https://link.springer.com/chapter/10.1007/978-3-662-46578-3_80"
+        authors: "M Othman, A Wahab, A Qayoom, MS Hamzah, MSA Seman"
+        conference: "Kim K. (eds) Information Science and Applications. Lecture Notes in Electrical Engineering, vol 339. Springer, Berlin, Heidelberg"
+        
+      - title: "Examining the Effectiveness of Alice in Java Programming Course Among Students in a Malaysian Public University"
+        link: "#"
+        authors: "MSA Seman"
+        conference: "Doctoral Dissertation: Robert Morris University, PA, USA"
+        
+      - title: "Distributed multi-level query cache: the impact on data warehousing"
+        link: "https://iacis.org/iis/2012/85_iis_2012_51-57.pdf"
+        authors: "P Noah, S Seman"
+        conference: "Issues in Information Systems, 2012"
 skills:
     title: Skills &amp; Proficiency
 
