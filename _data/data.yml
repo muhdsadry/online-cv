@@ -7,7 +7,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Sadry Abu Seman
+    name: Muhamad Sadry Abu Seman
     tagline: A Researcher, Mobile & Full Stack Developer
     avatar: sadry-profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -50,9 +50,9 @@ career-profile:
     title: Career Profile
     summary: |
       Driven researcher with 13 years of experience in teaching programming courses and conducting research in 
-      visual programming, computer science pedogogy & learning analytics.
+      visual programming, computer science pedogogy and learning analytics.
       Skilled at developing office automation applications and automating various manual processes (Paperwork).
-      Developing courses aligned with current technology used in IT industry.
+      Developed courses aligned with current technology used in IT industry.
       Excellent in written and oral communication skills.
      
 education:
@@ -317,6 +317,9 @@ skills:
         
       - name: React Native
         level: 98%
+        
+      - name: Cloud Computing
+        level: 75%
         
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
