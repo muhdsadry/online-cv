@@ -189,7 +189,7 @@ projects:
       - title: S3PKP
         link: "https://spppkp.com/"
         tagline: "Sistem Padanan Peluang Pekerjaan Orang Kurang Upaya. Developed 
-        with Laravel Framework - PHP Framework. Consultancy work for Institut Sosial Malaysia (ISM)."
+        with Laravel Framework. Consultancy work for Institut Sosial Malaysia (ISM)."
 
 publications:
     title: Publications
