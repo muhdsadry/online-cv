@@ -185,6 +185,11 @@ projects:
         link: "#"
         tagline: "A responsive web application for assisting lecturers with ICT support in classrooms. Developed 
         with Google App Script."
+        
+      - title: S3PKP
+        link: "https://spppkp.com/"
+        tagline: "Sistem Padanan Peluang Pekerjaan Orang Kurang Upaya. Developed 
+        with Laravel Framework - PHP Framework. Consultancy work for Institut Sosial Malaysia (ISM)."
 
 publications:
     title: Publications
