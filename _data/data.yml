@@ -190,7 +190,12 @@ projects:
         link: "https://spppkp.com/"
         tagline: "Sistem Padanan Peluang Pekerjaan Orang Kurang Upaya. Developed 
         with Laravel Framework. Consultancy work for Institut Sosial Malaysia (ISM)."
-
+        
+      - title: MyTrace
+        link: "https://www.mosti.gov.my/web/mytrace/"
+        tagline: "A Preventive Counter Measure and Contract Tracing App for Covid-19. Developed 
+        with React Native. Voluntary work for Ministry of Science, Technology & Innovation (MOSTI)."
+        
 publications:
     title: Publications
     intro: |
