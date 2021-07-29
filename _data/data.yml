@@ -183,7 +183,7 @@ projects:
 
       - title: i-Support
         link: "#"
-        tagline: "A responsive web application for assisting lecturers with ICT support in classrooms. Developed 
+        tagline: "A responsive web application to assist lecturers with ICT support in classrooms. Developed 
         with Google App Script."
         
       - title: S3PKP
