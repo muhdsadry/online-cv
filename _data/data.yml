@@ -205,6 +205,16 @@ publications:
     intro: |
       Below are the list of research publications including conference, journal and book chapter.
     papers:
+      - title: "The role of web engineering in e-learning application development: a review study."
+        link: "https://ijeecs.iaescore.com/index.php/IJEECS/article/view/27830"
+        authors: "Mohd Ali, Hussin Ahmad Hamzah and Abu Seman, Muhamad Sadry"
+        journal: "Indonesian Journal of Electrical Engineering and Computer Science (IJEECS), 27 (3). pp. 1576-1588. ISSN 2502-4752 E-ISSN 2502-4760"
+        
+      - title: "Examining Mediated Transfer Approach Using Alice as a Teaching Tool in ObjectOriented Web Programming Classes"
+        link: "http://www.mindatware.com/wp-content/uploads/2021/06/IENNE2020-E-Proceedings-with-ISSN_UPDATED.pdf"
+        authors: "Abu Seman, Muhamad Sadry and Asyari Sulaiman, Kautsar Taufiqurrahman"
+        conference: "International E-Conference On New Normal In Education 2020 (IENNE 2020)"
+        
       - title: "Malay Manuscripts Transliteration Using Statistical Machine Translation (SMT)"
         link: "https://ieeexplore.ieee.org/abstract/document/8970867"
         authors: "S. M. A. Razak, M. S. A. Seman, W. Ali, W. Y. Wan, N. H. Nizan, M. Noor"
@@ -213,12 +223,12 @@ publications:
       - title: "Effects of Socioeconomic Characteristics on Online Purchase Intention Among Malaysians"
         link: "https://www.ingentaconnect.com/content/asp/jctn/2019/00000016/00000003/art00021"
         authors: "NI Ali, S Samsuri, MSA Seman, IA Brohi, A Shah"
-        conference: "Journal of Computational and Theoretical Nanoscience, 2019"
+        journal: "Journal of Computational and Theoretical Nanoscience, 2019"
 
       - title: "Parallel Concept between Prophetic Chain and Network Authentication into a Framework of Hadith Assessment"
         link: "https://search.proquest.com/openview/48c32f6c5061af63205dda55f2ef5a25/1?pq-origsite=gscholar&cbl=2028729"
         authors: "Ibrahim, Nuzulha Khilwani; Samsuri, Suhaila; Seman, Muhamad Sadry Abu; Kartiwi, Mira; Ismail, Amelia Ritahani; et al."
-        conference: "International Journal of Advanced Studies in Computers, Science and Engineering; Gothenburg Vol. 8, Iss. 11,  (2019): 1-8."
+        journal: "International Journal of Advanced Studies in Computers, Science and Engineering; Gothenburg Vol. 8, Iss. 11,  (2019): 1-8."
       
       - title: "A Review of Programming Code Assessment Approaches"
         link: "https://ieeexplore.ieee.org/abstract/document/8629221"
@@ -228,7 +238,7 @@ publications:
       - title: "Cybercrime an emerging challenge for internet users: An overview"
         link: "http://sujo2.usindh.edu.pk/index.php/SURJ/article/view/44"
         authors: "NI Ali, S Samsuri, MSA Seman, IA Brohi, A Shah"
-        conference: "Vol 50 No 3D (2018): Sindh University Research Journal (Science Series) SURJ"
+        journal: "Vol 50 No 3D (2018): Sindh University Research Journal (Science Series) SURJ"
         
       - title: "Transliteration Engine for Union Catalogue of Malay Manuscripts in Malaysia: E-Jawi Version 3"
         link: "https://ieeexplore.ieee.org/abstract/document/8567096"
@@ -238,17 +248,17 @@ publications:
       - title: "Assessing ICT Implementation and Acceptance at Public Sector Universities in Pakistan"
         link: "http://sujo-old.usindh.edu.pk/index.php/USJICT/article/view/3846"
         authors: "S Chandio, MSA Seman, S Samsuri, A Kanwal, A Shah"
-        conference: "2018 University of Sindh Journal of Information and Communication Technology"
+        journal: "2018 University of Sindh Journal of Information and Communication Technology"
         
       - title: "Measuring E-Commerce Success in Malaysia: Modified Delone Mclean Model with Trust and Privacy"
         link: "#"
         authors: "NI Ali, S Samsuri, MS Seman, IA Brohi, A Shah"
-        conference: "International Journal of Engineering & Technology 7 (4.15), 524-529, 2018"
+        journal: "International Journal of Engineering & Technology 7 (4.15), 524-529, 2018"
         
       - title: "Preliminary study for customer’s online shopping satisfaction from security perspective"
         link: "https://www.researchgate.net/profile/Najma_Imtiaz/publication/325684557_Preliminary_Study_for_Customer's_Online_Shopping_Satisfaction_from_Security_Perspective/links/5b1e35580f7e9b68b42c2894/Preliminary-Study-for-Customers-Online-Shopping-Satisfaction-from-Security-Perspective.pdf"
         authors: "N Ali, S Samsuri, M Seman, IA Brohi, A Shah"
-        conference: "Int. J. Eng. Technol, 2018"
+        journal: "Int. J. Eng. Technol, 2018"
         
       - title: "Towards an integrated framework of e-learning through an international innovative collaboration: Iraqi perspective"
         link: "https://ieeexplore.ieee.org/abstract/document/8308096"
@@ -268,7 +278,7 @@ publications:
       - title: "Perception of young adults on the use of mobile learning for pre-marital course in Malaysia: a preliminary study"
         link: "https://scholar.google.com/scholar?oi=bibs&cluster=6966159400106050895&btnI=1&hl=en"
         authors: "NAM Ali, S Samsuri, MSA Seman"
-        conference: "Journal of Fundamental and Applied Sciences, 2017"
+        journal: "Journal of Fundamental and Applied Sciences, 2017"
         
       - title: "Online shopping satisfaction in Malaysia: A framework for security, trust and cybercrime"
         link: "https://ieeexplore.ieee.org/abstract/document/7814901"
