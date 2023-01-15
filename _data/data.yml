@@ -154,8 +154,7 @@ projects:
     assignments:
       - title: FRGS, 2022
         link: "#"
-        tagline: "Data Mining of Malay Medical Manuscripts and Construction of a Database of Malay Medicine With Interventions 
-        for Covid-19-like Symptoms as a Focus - Co-Researcher Fundamental Research Grant Scheme (FRGS)"
+        tagline: "Data Mining of Malay Medical Manuscripts and Construction of a Database of Malay Medicine With Interventions for Covid-19-like Symptoms as a Focus - Co-Researcher Fundamental Research Grant Scheme (FRGS)"
         
       - title: OPOM, 2022
         link: "#"
@@ -163,53 +162,43 @@ projects:
         
       - title: FRGS, 2021
         link: "#"
-        tagline: "Developing a Model for Teaching Arabic Grammar to the Malays Learners with Alignment to the Malay Language Structures and 
-        Patterns - Co-Researcher - Fundamental Research Grant Scheme (FRGS)"
+        tagline: "Developing a Model for Teaching Arabic Grammar to the Malays Learners with Alignment to the Malay Language Structures and Patterns - Co-Researcher - Fundamental Research Grant Scheme (FRGS)"
         
       - title: RIGS, 2015
         link: "http://irep.iium.edu.my/73052/"
-        tagline: "A Model for Islamic istilahNet in Malay Manuscripts for Big Data Analytics and Liguistic Consortium. 
-        Main Researcher - Research Initiative Grant Scheme (RIGS)"
+        tagline: "A Model for Islamic istilahNet in Malay Manuscripts for Big Data Analytics and Liguistic Consortium. Main Researcher - Research Initiative Grant Scheme (RIGS)"
         
       - title: RIGS, 2015
         link: "#"
-        tagline: "Re-engineering pre-marriage course learning for JAKIM - an investigation of multimedia lifelong 
-        mobile learning experience. Co-Researcher - Research Initiative Grant Scheme (RIGS)"
+        tagline: "Re-engineering pre-marriage course learning for JAKIM - an investigation of multimedia lifelong mobile learning experience. Co-Researcher - Research Initiative Grant Scheme (RIGS)"
         
       - title: FRGS, 2007
         link: "#"
-        tagline: "Digital Divide & Information Technology Industry Development in Malaysia. Co-Researcher - Fundamental 
-        Research Grant Scheme (FRGS)"
+        tagline: "Digital Divide & Information Technology Industry Development in Malaysia. Co-Researcher - Fundamental Research Grant Scheme (FRGS)"
         
       - title: FYP Dashboard
         link: "#"
-        tagline: "A web application to ease assessments and monitoring of final year project. Developed with 
-        Google App Script."
+        tagline: "A web application to ease assessments and monitoring of final year project. Developed with Google App Script."
 
       - title: IAP Dashboard
         link: "#"
-        tagline: "A web application to ease assessments of Industrial Attachment Program for faculty/companies and 
-        monitoring students' performance. Develop with Google App Script."
+        tagline: "A web application to ease assessments of Industrial Attachment Program for faculty/companies and monitoring students' performance. Develop with Google App Script."
 
       - title: PG Dashboard
         link: "#"
-        tagline: "A web application to ease assessments of Postgraduate Program for supervisor and monitoring 
-        students' progress. Develop with Google App Script."
+        tagline: "A web application to ease assessments of Postgraduate Program for supervisor and monitoring students' progress. Develop with Google App Script."
 
       - title: IT Support
         link: "#"
-        tagline: "A responsive web application to assist lecturers with ICT support in classrooms. Developed 
-        with Google App Script."
+        tagline: "A responsive web application to assist lecturers with ICT support in classrooms. Developed with Google App Script."
         
       - title: S3PKP
         link: "https://spppkp.com/"
-        tagline: "Sistem Padanan Peluang Pekerjaan Orang Kurang Upaya. Developed 
-        with Laravel Framework. Consultancy work for Institut Sosial Malaysia (ISM)."
+        tagline: "Sistem Padanan Peluang Pekerjaan Orang Kurang Upaya. Developed with Laravel Framework. Consultancy work for Institut Sosial Malaysia (ISM)."
         
       - title: MyTrace
         link: "https://www.mosti.gov.my/web/mytrace/"
-        tagline: "A Preventive Counter Measure and Contract Tracing App for Covid-19. Developed 
-        with React Native. Voluntary work for Ministry of Science, Technology & Innovation (MOSTI)."
+        tagline: "A Preventive Counter Measure and Contract Tracing App for Covid-19. Developed with React Native. Voluntary work for Ministry of Science, Technology & Innovation (MOSTI)."
         
 publications:
     title: Publications
