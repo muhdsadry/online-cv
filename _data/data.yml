@@ -202,7 +202,7 @@ projects:
         
 publications:
     title: Publications
-    intro: |
+    intro: >
       Below are the list of research publications including conference, journal and book chapter.
     papers:
       - title: "Understanding academic misconduct among IIUM students during RTL phase: the role of social presence & religiosity"
