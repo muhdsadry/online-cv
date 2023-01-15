@@ -205,7 +205,7 @@ publications:
     intro: |
       Below are the list of research publications including conference, journal and book chapter.
     papers:
-    - title: "Understanding academic misconduct among IIUM students during RTL phase: the role of social presence & religiosity"
+      - title: "Understanding academic misconduct among IIUM students during RTL phase: the role of social presence & religiosity"
         link: "http://irep.iium.edu.my/94639/"
         authors: "Tengku Mohd Azzman, Tengku Siti Aisha and Sedu, Nerawi and Abu Seman, Muhamad Sadry"
         conference: "3rd Communication Research Seminar 2021 (CORENA21)"
