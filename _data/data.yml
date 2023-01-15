@@ -205,7 +205,12 @@ publications:
     intro: |
       Below are the list of research publications including conference, journal and book chapter.
     papers:
-      - title: "The role of web engineering in e-learning application development: a review study."
+    - title: "Understanding academic misconduct among IIUM students during RTL phase: the role of social presence & religiosity"
+        link: "http://irep.iium.edu.my/94639/"
+        authors: "Tengku Mohd Azzman, Tengku Siti Aisha and Sedu, Nerawi and Abu Seman, Muhamad Sadry"
+        seminar: "3rd Communication Research Seminar 2021 (CORENA21)"
+        
+      - title: "The role of web engineering in e-learning application development: a review study"
         link: "https://ijeecs.iaescore.com/index.php/IJEECS/article/view/27830"
         authors: "Mohd Ali, Hussin Ahmad Hamzah and Abu Seman, Muhamad Sadry"
         journal: "Indonesian Journal of Electrical Engineering and Computer Science (IJEECS), 27 (3). pp. 1576-1588. ISSN 2502-4752 E-ISSN 2502-4760"
